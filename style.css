@@ -1,0 +1,176 @@
+
+.first-act{
+margin: 0 auto;
+height: 44px;
+width: 1920px;
+left: 0px;
+top: 0px;
+background-color:#000000;
+display: flex;
+justify-content: space-around;
+align-items: center;
+}
+div>a{
+	text-decoration: none;
+	color:#969696;
+}
+.second-act{
+height: 80px;
+width: 1920px;
+background: #0F0F0F;
+display: flex;
+align-items: center;
+justify-content: space-between;
+margin: 0 auto;
+
+}
+
+.logo{
+	margin-left: 17%;
+}
+.navigat{
+	align-items: center;
+	display: flex;
+
+}
+.m-r{
+	width: 310px;
+}
+.follow{
+left: 80px;
+padding: 31px 20px;
+}
+.follow:hover{
+	transition: 0.6s;
+	background-color:#1F1F1F;
+	color: #FFFFFF;
+	padding: 31px 20px;
+}
+.raum{
+
+left:1135px;
+top: 42px;
+padding: 31px 20px;
+}
+.raum:hover{
+	transition: 0.6s;
+	background-color:#1F1F1F;
+	color: #FFFFFF;
+	padding: 31px 20px;
+}
+.opty{
+
+padding: 31px 20px;
+}
+.opty:hover{
+	transition: 0.6s;
+	background-color:#1F1F1F;
+	color: #FFFFFF;
+	padding: 31px 20px;
+}
+.img-nav{
+	padding: 0px 20px;
+}
+.nav-img{
+	padding: 0px 20px;
+}
+.previev{
+	height: auto;
+	width: 100%;
+	max-width: 1920px;
+	margin: 0 auto;
+}
+.second-rectangle{
+	position: relative;
+	z-index: -7;
+}
+.logo-second{
+	z-index: 7;
+	position: relative;
+	left: 800px;
+	bottom: 620px;
+
+}
+.nav-porten-lorem{
+height: 96px;
+width: 730px;
+position: relative;
+margin:0  auto;
+bottom: 600px;
+text-align: center;
+color: white;
+font-size: 120%;
+}
+.new-season{
+	z-index: -7;
+	margin-top: -418px;
+}
+.new-collect{
+	z-index: -7;
+	margin-top: -758px;
+	margin-left: 1040px;
+}
+.last-act{
+	width: 1920px;
+	margin:0 auto;
+	z-index: 10;
+	margin-top: -30px;
+}
+.nav-2018-buttom{
+	z-index: 12;
+	padding: 20px;
+	background-color: black;
+	margin-left: 1228px;
+	margin-top: -300px;
+}
+.demonstrat{
+	z-index: -8;
+	margin-top: -130px;
+}
+.our-brands{
+	margin-top: -90px;
+}
+.brands{
+	margin-left: 410px;
+}
+.Rectangle141{
+	z-index: 28;
+	position: relative;
+	margin-top: -310px;
+	background-color:#0F0F0F;
+	;
+	padding: 10px 10px;
+}
+.Rectangle142{
+	z-index: 28;
+	position: relative;
+	margin-top: -310px;
+	background-color: #0F0F0F;
+	padding: 10px 10px;
+}
+.Rectangle143{
+	z-index: 28;
+	position: relative;
+	margin-top: -310px;
+	background-color: #0F0F0F;
+	padding: 10px 10px;
+}
+.Rectangle144{
+	z-index: 28;
+	position: relative;
+	margin-top: -310px;
+	background-color: #0F0F0F;
+	padding: 10px 10px;
+}
+.first-foot{
+	margin: 0 auto;
+	height: 44px;
+	width: 1920px;
+	left: 0px;
+	top: 0px;
+	background-color:#000000;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	margin-top: -23px;
+	}
